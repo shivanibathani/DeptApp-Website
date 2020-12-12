@@ -1,0 +1,91 @@
+body,
+html {
+  height: 100%;
+}
+
+.reg-body {
+  background-image: url("../screens/Images/img3i.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  padding-top: 0.1px;
+}
+
+.reg-head {
+  color: darkblue;
+
+  float: right;
+  font-size: 80px;
+  margin-top: -5%;
+  margin-left: 2%;
+  margin-right: 5%;
+}
+
+.reg-form-body {
+  border-style: solid;
+  border-width: 10;
+  border-color: darkblue;
+  background-color:#e65100 ;
+  height: 690px;
+  width: 30%;
+  margin: 5% 10% 5% 4%;
+  padding: 1% 0 3% 0;
+  border-radius: 5%;
+  text-align: center;
+  font-size: 40px;
+}
+
+.form-head {
+  color: white;
+  
+  float: right;
+  font-size: 60px;
+  margin-top: 0%;
+  margin-left: -30%;
+  margin-right: 30%;
+}
+
+.reg-form {
+  margin: -5% 10% 10% 5%;
+}
+
+.form-ip {
+  min-width: 250px;
+  min-height: 30px;
+  border-radius: 10px;
+  background: black;
+  color: white;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+}
+
+.form-icon {
+  width: 40px;
+  height: 40px;
+  margin-left: auto;
+}
+
+.form-btn {
+  background-color: #b9f6ca;
+  border-radius: 10px;
+  height: 20%;
+  width: 20%;
+  font-size: 2.6vmin;
+}
+.radio-body{
+  margin: -5% 10% 5% -24%;
+  padding: 1% 0 3% 0;
+  color:black;
+}
+.lbl{
+  color: white;
+  size: 20px;
+  font-size: 2.6vmin;
+}
+.lbl1{
+  color: white;
+  font-size: 2.6vmin;
+  text-align: left;
+}

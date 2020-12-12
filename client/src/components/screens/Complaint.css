@@ -1,0 +1,74 @@
+.heading-style{
+    font-weight: bold !important;
+   
+    font-size: 40px !important;
+    color: darkblue;
+}
+.input-style{
+    display: flex;
+    font-size: 20px;
+    font-weight: bold !important;
+}
+
+.content-style1{
+    background-color:steelblue !important;
+}
+
+.complaint{
+    font-weight: bold !important;
+    font-size: 25px !important;
+    color: darkblue !important;
+}
+
+.madeby{
+    font-weight: bold !important;
+    font-size: 25px !important;
+    color: darkblue !important;
+}
+.complaint-ans{
+    font-weight: bold !important;
+    font-size: 23px !important;
+    color: black !important;
+}
+
+.madeby-ans{
+    font-weight: bold !important;
+    font-size: 23px !important;
+    color: black !important;
+}
+
+.date{
+    
+    font-size: 25px !important;
+    color: darkblue !important;
+}
+
+.message-time{
+    font-size: 20px !important;
+    color: darkblue !important;
+}
+.resolvedby{
+    font-weight: bold !important;
+    font-size: 25px !important;
+    color: darkblue !important;
+}
+
+.resolverremark{
+    font-weight: bold !important;
+    font-size: 25px !important;
+    color: darkblue !important;
+}
+.resolvern-ans{
+    font-weight: bold !important;
+    font-size: 23px !important;
+    color: black !important;
+
+}
+.resolverr-ans{
+    font-weight: bold !important;
+    font-size: 23px !important;
+    color: black !important;
+}
+.content-style2{
+    background-color:lightsteelblue!important;
+}

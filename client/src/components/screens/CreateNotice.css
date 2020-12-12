@@ -1,0 +1,24 @@
+body,
+html {
+  height: 100%;
+}
+.cn-body {
+    background-color: steelblue;
+    background-repeat: repeat;
+    background-size:cover;
+    height: 100%;
+    background-position: center;
+    padding-bottom: 300px;
+    width: 100%;
+    padding-top: 0.2px;
+  }
+
+  
+  .cp-heading {
+    color: midnightblue;
+    
+    float: left;
+    font-size: 80px;
+    margin-top: 2%;
+    margin-left: 2%;
+  }

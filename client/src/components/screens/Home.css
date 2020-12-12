@@ -1,0 +1,24 @@
+body,
+html {
+  height: 100%;
+}
+.hom-body {
+    background-color: steelblue;
+    /* background-color: #e1bee7; */
+    background-repeat: repeat;
+    background-size:cover;
+  height: 100%;
+    background-position: center;
+    
+    width: 100%;
+    padding-top: 0.1px;
+    padding-bottom: 200px;
+  }
+  .hom-heading {
+    color: midnightblue;
+    
+    float: left;
+    font-size: 80px;
+    margin-top: 2%;
+    margin-left: 2%;
+  }

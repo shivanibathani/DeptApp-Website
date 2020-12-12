@@ -1,0 +1,115 @@
+.chat-heading {
+    color: midnightblue;
+    
+    float: left;
+    font-size: 80px;
+    margin-top: 2%;
+    margin-left: 0.5%;
+  }
+  
+  .chat-button {
+    position: fixed;
+    top: 250px;
+    left: 30px;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+  }
+  
+  .chat-search {
+    overflow-y: scroll;
+    max-height: 500px !important;
+  }
+  
+  .chat-head {
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .chat-search-box {
+    margin-left: 5px !important;
+    width: 370px !important;
+    margin-bottom: 5px !important;
+  }
+  
+  .chat-search-user-picture {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-top: 5px !important;
+    margin-left: 5px !important;
+    margin-bottom: 5px !important;
+  }
+  
+  .chat-search-card {
+    background-color: lightsteelblue !important;
+    margin-top: 5px !important;
+    margin-left: 4px !important;
+    margin-right: 30px !important;
+    margin-bottom: 5px !important;
+    display: flex !important;
+  }
+  
+  .chat-search-name {
+    font-weight: bold;
+    font-size: 20px !important;
+    margin-top: 10px !important;
+    margin-left: 60px !important;
+    margin-right: 60px !important;
+  }
+  
+  .chatRoom-container {
+    margin-top: 20px !important;
+    width: 650px !important;
+    
+  }
+  
+  .chatRoom-card {
+    background-color:#e65100 !important;
+  }
+  
+  .chatRoom-header {
+    display: flex !important;
+  }
+  
+  .chatRoom-user-picture {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-top: 5px !important;
+    margin-left: 5px !important;
+    margin-bottom: 5px !important;
+  }
+  
+  .chatRoom-user {
+    font-weight: bold !important;
+    font-size: 25px !important;
+    margin-left: 10px !important;
+  }
+  
+  .link {
+    text-decoration: none !important;
+    color: black !important;
+  }
+  
+  .chatRoom-message {
+    font-size: 18px !important;
+    margin-left: 10px !important;
+    max-width: 500px !important;
+    margin-top: -10px !important;
+  }
+  
+  .message-time {
+    font-size: 16px !important;
+    margin-left: 490px !important;
+    margin-top: 2px !important;
+  }
+  
+  .message-date {
+    font-size: 16px !important;
+    margin-left: 470px !important;
+    margin-top: 6px !important;
+  }
+  .chat-body{
+    background-color: darkgreen !important;
+  }
